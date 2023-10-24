@@ -1,6 +1,7 @@
 body{
-    background-color: cadetblue;
+    background-color: burlywood;
     color: darkblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h1, h2{
     text-align: center;
